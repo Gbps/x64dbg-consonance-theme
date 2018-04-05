@@ -1,5 +1,5 @@
 # x64dbg-consonance-theme
-My dark x64dbg color theme based on IDA Consonance
+My dark x64dbg color theme based on [IDA Consonance](https://github.com/eugeii/ida-consonance)
 
 Dark style.css theme from [x64dbg_Theme_vs_dark](https://github.com/Voraka/x64dbg_Theme_vs_dark)
 
